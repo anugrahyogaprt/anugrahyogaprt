@@ -4,8 +4,12 @@
 
 ### Welcome to my Github
 <p>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer)](https://git.io/typing-svg)
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=2500&lines=🔭+Currently+Looking+for+...;Data+Scientist+job+in+Indonesia)](https://git.io/typing-svg)
+  <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer)" /></a>
+</p>
+  <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=🔭+Currently+Looking+for+...;Data+Scientist+job+in+Indonesia" /></a>
+</p>
 </p>
 
 - 👋 Hi, I’m @anugrahyogaprt
