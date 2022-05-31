@@ -5,10 +5,10 @@
 ### Welcome to my Github
 <p>
   <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer)" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=5000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer)" /></a>
 </p>
   <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=🔭+Currently+Looking+for+...;Data+Scientist+job+in+Indonesia" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&lines=🔭+Looking+for+that+job" /></a>
 </p>
 </p>
 
