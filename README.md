@@ -1,6 +1,6 @@
 ### Welcome to my Github
   <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer" /></a>
+  <a href="[https://github.com/DenverCoder1/readme-typing-svg](https://camo.githubusercontent.com/4b29729263ca40a277e71266c3175f4548da19714c97d8f51a81e3446d6f3456/68747470733a2f2f63646e2e6a6f79706978656c732e636f6d2f70726f64756374732f70726576696577732f4f364437424d47385232444d4d4e43344c4c5a482f323431315f485a57415248576b3054496d5230554277767548525558506f726342775773312e676966)"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer" /></a>
 </p>
 
 - 👋 Hi, I’m @anugrahyogaprt
