@@ -1,7 +1,7 @@
-<h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hi there <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 3px> </h1>
 <p align='center'>
 </p>
-:hugs:
+
 ### Welcome to my Github
   <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer" /></a>
