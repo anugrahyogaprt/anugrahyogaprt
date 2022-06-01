@@ -3,6 +3,9 @@
 </p>
 
 ### Welcome to my Github
+  <p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=3000&lines=👨🏻‍💻+I'am+Data+Scientist;⚙️+I'am+Machine+Learning+Engineer" /></a>
+</p>
 
 - 👋 Hi, I’m @anugrahyogaprt
 - 👀 I’m interested in Data Science especially Machine Learning and Deep Learning
