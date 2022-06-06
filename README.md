@@ -22,7 +22,7 @@ This is my personal GitHub. I am actually a fresh graduate from one of the best 
   </a> 
 
 
-<h2> Skills <img src = "https://im3.ezgif.com/tmp/ezgif-3-ab661b18d9.gif" width = 30px> </h2>
+<h2> Skills <img src = "https://i.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.webp" width = 30px> </h2>
 <p align='center'>
 </p>
 
